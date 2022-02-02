@@ -3,7 +3,7 @@
 [![Badge](https://img.shields.io/static/v1?label=&message=Arthur&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurgmachado/)](https://www.linkedin.com/in/arthurgmachado/)
 ![GitHub followers](https://img.shields.io/github/followers/arthurgmr?label=Follow&style=social)
 
-Backend Developer | Node.js | JavaScript | TypeScript
+Backend Developer
 
 #### I'm currently...
 
@@ -18,13 +18,14 @@ Backend Developer | Node.js | JavaScript | TypeScript
 
 <p align="left"> 
  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" title="NodeJS" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
 <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" title="HTML" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" title="CSS" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React" width="40" height="40"/>
+<p align="left"> 
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/> 
 
 
 ---
