@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Arthur</h1>
+<h1 align="center">Hi, I'm Arthur</h1>
 
 [![Badge](https://img.shields.io/static/v1?label=&message=Arthur&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurgmachado/)](https://www.linkedin.com/in/arthurgmachado/)
 ![GitHub followers](https://img.shields.io/github/followers/arthurgmr?label=Follow&style=social)
@@ -7,9 +7,9 @@ Backend Developer
 
 #### I'm currently...
 
-- 💻 Working at [Wipro Limited](https://www.wipro.com/)
-- 📚 Learning more about Nodejs stack at [Rocketseat](https://github.com/Rocketseat)
-- 📚 Learning more about Java stack
+- 💻 Working at [MaxMilhas](https://www.maxmilhas.com.br/)
+- 📚 Learning more about Nodejs
+- 📚 Learning more about React
 - 🎓 Degree Information System at UNIFAMINAS
 
 ---
@@ -25,7 +25,8 @@ Backend Developer
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" title="CSS" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React" width="40" height="40"/>
 <p align="left"> 
- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="40" height="40"/>
 
 
 ---
