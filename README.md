@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Arthur</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Arthur</h1>
 
 [![Badge](https://img.shields.io/static/v1?label=&message=Arthur&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurgmachado/)](https://www.linkedin.com/in/arthurgmachado/)
 ![GitHub followers](https://img.shields.io/github/followers/arthurgmr?label=Follow&style=social)
